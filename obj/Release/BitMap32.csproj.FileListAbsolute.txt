@@ -1,0 +1,4 @@
+C:\Users\Dmitriy\Dropbox\Code\CSharpDotNet\Projects\Jedi_knight\BitMap32_DLL\BitMap32\BitMap32\bin\Release\BitMap32.dll
+C:\Users\Dmitriy\Dropbox\Code\CSharpDotNet\Projects\Jedi_knight\BitMap32_DLL\BitMap32\BitMap32\bin\Release\BitMap32.pdb
+C:\Users\Dmitriy\Dropbox\Code\CSharpDotNet\Projects\Jedi_knight\BitMap32_DLL\BitMap32\BitMap32\obj\Release\BitMap32.dll
+C:\Users\Dmitriy\Dropbox\Code\CSharpDotNet\Projects\Jedi_knight\BitMap32_DLL\BitMap32\BitMap32\obj\Release\BitMap32.pdb
