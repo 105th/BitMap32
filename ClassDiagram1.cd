@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BitMap32">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAIAAAAAAkAAAAAQgAQBEAAAgAEBAWABADAAABg=</HashCode>
+      <FileName>BitMap32.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Conversion">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACACAAAAKAAQAAAAgAAAIAAAAAAAACAgAAAA=</HashCode>
+      <FileName>Conversion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DatasetItem">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAgAAAYAA=</HashCode>
+      <FileName>DatasetItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DbscanAlgorithm">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEQAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>DbscanAlgorithm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DbscanPoint">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAACAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>DbscanPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gesture">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAACBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAIAAA=</HashCode>
+      <FileName>Gesture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GestureNumberHelper">
+    <Position X="5.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GestureNumberHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="CIEXYZ">
+    <Position X="7.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAIAAAAAAAAAAIAAAABgAQEAYiE=</HashCode>
+      <FileName>CIEXYZ.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FingerPoint">
+    <Position X="9.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAABAAAAgAAAAAA=</HashCode>
+      <FileName>FingerPoint.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="FingerRectangle">
+    <Position X="5.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAQAAEABAAAAAAAAAAAwAAAAACEAAIBAA=</HashCode>
+      <FileName>FingerRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="HSB">
+    <Position X="7.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAQgAgAEAAAAAAAgAIAAAAAAAAAAIAAAAAAAAAAAqA=</HashCode>
+      <FileName>HSB.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CIELab">
+    <Position X="5.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAIAAAAAAAAAAIAgBQAAIAUAAiA=</HashCode>
+      <FileName>LAB.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="RGB">
+    <Position X="9.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACAAAAAAAAAgAAgAIAAAAAAAAAAIAAAAAAABAAAiA=</HashCode>
+      <FileName>RGB.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="ClusterIds">
+    <Position X="5.75" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClusterIds.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FingersColor">
+    <Position X="7.5" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAgAAIAAAAAAAAAAAgAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>FingersColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FingersName">
+    <Position X="9.25" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAIAAAAgAAAAAAEAAAAAAAAAAAI=</HashCode>
+      <FileName>FingersName.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GestureNumber">
+    <Position X="5.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>GestureNumber.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
